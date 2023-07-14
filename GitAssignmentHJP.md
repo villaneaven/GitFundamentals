@@ -15,4 +15,4 @@ Things I want to learn are:
 
 This is an image of my cat, Sunday :cat2:!
 
-<img src="https://imgur.com/a/IlLjh3j" alt="This is an image of my cat." width="300px">
+<img src="https://i.imgur.com/75OjAVt.jpeg" alt="This is an image of my cat." width="300px">
